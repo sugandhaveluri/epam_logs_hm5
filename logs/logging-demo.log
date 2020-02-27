@@ -1,0 +1,11 @@
+2020-02-27 23:24:35 INFO  Interest:22 - enter principle amount
+2020-02-27 23:25:03 INFO  Interest:22 - enter principle amount
+2020-02-27 23:25:12 INFO  Interest:24 - enter time period
+2020-02-27 23:25:13 INFO  Interest:26 - enter rate of interest
+2020-02-27 23:25:15 INFO  Interest:31 - SimpleInterest=500.0
+2020-02-27 23:25:15 INFO  Interest:33 - CompoundInterest=1610.5101
+2020-02-27 23:26:33 INFO  Interest:22 - enter principle amount
+2020-02-27 23:26:52 INFO  Interest:24 - enter time period
+2020-02-27 23:26:54 INFO  Interest:26 - enter rate of interest
+2020-02-27 23:26:57 INFO  Interest:31 - SimpleInterest=500.0
+2020-02-27 23:26:57 INFO  Interest:33 - CompoundInterest=1610.5101
