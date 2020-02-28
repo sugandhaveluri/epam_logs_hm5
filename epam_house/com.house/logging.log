@@ -1,0 +1,25 @@
+2020-02-28 11:17:32 INFO  HouseMain:25 - Enter total area of house
+2020-02-28 11:18:45 INFO  HouseMain:25 - Enter total area of house
+2020-02-28 11:18:55 INFO  HouseMain:27 - Do you want fully automated home if yes enter 1 orelse enter 0
+2020-02-28 11:19:03 INFO  HouseMain:33 - Automated home cost estimation=2.5E7
+2020-02-28 11:19:03 INFO  HouseMain:34 - Do you want to continue? if yes enter 1 else enter 0
+2020-02-28 11:19:09 INFO  HouseMain:25 - Enter total area of house
+2020-02-28 11:19:12 INFO  HouseMain:27 - Do you want fully automated home if yes enter 1 orelse enter 0
+2020-02-28 11:19:15 INFO  HouseMain:49 - For standard materials enter:2
+For above standard materials enter:3
+For high standard materials enter:4
+2020-02-28 11:22:02 INFO  HouseMain:74 - Above standard cost estimation=1500000.0rs
+2020-02-28 11:22:02 INFO  HouseMain:75 - Do you want to continue? if yes enter 1 else enter 0
+2020-02-28 11:22:06 INFO  HouseMain:25 - Enter total area of house
+2020-02-28 11:22:22 INFO  HouseMain:25 - Enter total area of house
+2020-02-28 11:22:35 INFO  HouseMain:27 - Do you want fully automated home if yes enter 1 orelse enter 0
+2020-02-28 11:22:40 INFO  HouseMain:33 - Automated home cost estimation=2500000.0
+2020-02-28 11:22:40 INFO  HouseMain:34 - Do you want to continue? if yes enter 1 else enter 0
+2020-02-28 11:22:47 INFO  HouseMain:25 - Enter total area of house
+2020-02-28 11:23:10 INFO  HouseMain:27 - Do you want fully automated home if yes enter 1 orelse enter 0
+2020-02-28 11:23:21 INFO  HouseMain:49 - For standard materials enter:2
+For above standard materials enter:3
+For high standard materials enter:4
+2020-02-28 11:23:24 INFO  HouseMain:74 - Above standard cost estimation=1500000.0rs
+2020-02-28 11:23:24 INFO  HouseMain:75 - Do you want to continue? if yes enter 1 else enter 0
+2020-02-28 11:23:37 INFO  HouseMain:83 - Thank you!
